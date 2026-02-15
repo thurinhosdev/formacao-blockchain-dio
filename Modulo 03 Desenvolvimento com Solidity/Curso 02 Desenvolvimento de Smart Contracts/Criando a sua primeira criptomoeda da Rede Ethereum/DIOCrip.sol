@@ -17,7 +17,7 @@ interface IERC20{
 
 }
 
-contract DIOToken is IERC20{
+contract DIOCrip is IERC20{
 
     string public constant name = "DIO Token";
     string public constant symbol = "DIO";
